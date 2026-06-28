@@ -149,7 +149,7 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**YANDRAPATI PRAVEEN KISHORE**
 
 B.Tech Computer Science and Engineering Student
 
